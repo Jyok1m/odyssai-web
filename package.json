@@ -3,7 +3,7 @@
 	"version": "0.1.0",
 	"private": true,
 	"scripts": {
-		"dev": "PORT=9000 next dev --turbopack"
+		"dev": "PORT=3030 next dev --turbopack"
 	},
 	"dependencies": {
 		"react": "19.1.0",
